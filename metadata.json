@@ -1,0 +1,6 @@
+{
+  "name": "CarPolyzz",
+  "description": "A competitive, low-poly online style racing simulation built around precision driving, global ranking tiers, other players' live distance indicators, and real-time custom tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Stylized Low-Poly Car Silhouette -->
+    <!-- Car body back -->
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M30,68 L42,65 L54,65 L66,65 L78,68 L70,80 L38,80 Z" />
+    
+    <!-- Car body front cockpit & windshield -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M38,55 L54,34 L70,55 L54,62 Z" />
+        
+    <!-- Left Wing/Fender -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M24,68 L36,58 L38,68 L28,75 Z" />
+        
+    <!-- Right Wing/Fender -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M84,68 L72,58 L70,68 L80,75 Z" />
+
+    <!-- Spoiler / Wing -->
+    <path
+        android:fillColor="#0288D1"
+        android:pathData="M20,78 L88,78 L88,83 L20,83 Z" />
+    <path
+        android:fillColor="#2979FF"
+        android:pathData="M24,78 L20,83 L20,72 L24,72 Z" />
+    <path
+        android:fillColor="#2979FF"
+        android:pathData="M84,78 L88,83 L88,72 L84,72 Z" />
+        
+    <!-- Rear high-intensity Exhaust/Boost -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M50,80 L58,80 L54,88 Z" />
+
+    <!-- Sleek speed indicators / flow lines -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M15,48 L22,50 L10,54" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M93,48 L86,50 L98,54" />
+</vector>
